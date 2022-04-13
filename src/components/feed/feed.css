@@ -1,0 +1,70 @@
+.feed{
+    flex: 5;
+    margin: 20px;
+    padding: 20px;
+    top: -150px
+
+}
+
+.user-button{
+    margin: 20px 0 40px;
+    
+}
+.user-button button:first-of-type{
+    margin-right: 15px;
+    
+}
+.btn{
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 3px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    transition: all .5s ease;
+}
+.btn-primary,
+.btn-outline-primary{
+    border: 1px solid rgb(98, 155, 241);
+}
+.btn-primary,
+.btn-outline-primary:hover{
+    color: #231e39;
+    background-color: #51a8e2;
+}
+.btn-primary:hover,
+.btn-outline-primary{
+    background-color: transparent;
+    color: #101011;
+}
+.card-body{
+    margin-top: 60px;
+    margin-bottom: 16px;
+    top: 100px;
+    padding: 5px 30px 15px;
+    
+}
+.card-text{
+    margin-top: 5px;
+    margin-bottom: 16px;
+    
+}
+.card-title{
+        top: 500px;
+        font-size:30px;
+        font-weight: 700;
+      
+}
+
+.profile-image {
+    position: absolute;
+    top: 360px;
+    left: 90px;
+    width: 130px;
+    height: 150px;
+    border-radius: 5px; 
+} 
+.cards{
+    width: 9150px;
+    height: 120px;
+}
